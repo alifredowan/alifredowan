@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    background-color: rgba(20, 83, 200, 0.808)
+}
+.cover-img{
+    width: 900px;
+    margin-left: 13%;
+    height: 500px;
+}
+.upper-speaker{
+    display: flex;
+    margin-left: 13%;
+    margin-top: -150px;
+}
+.lower-speaker{
+    display: flex;
+    margin-left: 29%;
+    margin-top: 30px;
+}
+.box-shadow{
+    border : 2px rgb(9, 9, 128) solid;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.box-shadow p{
+    color: rgb(101, 101, 236);
+    font-size: 700px;
+}
+.Speaker-photo{
+    width: 20px;
+    height: 30px;
+}
